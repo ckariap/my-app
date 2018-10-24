@@ -34,7 +34,7 @@ public class AppTest{
     driver.findElement(By.xpath("(//div[@id='resultsCol']//a[contains(@class,'access-detail-page')])[1]")).click(); 
 
     // Check that the page title contains the term "Software Testing"
-    assertTrue(driver.getTitle().contains("Sofbrtware Testing")); 
+    assertTrue(driver.getTitle().contains("Web")); 
 
     // Close the browser
     driver.quit(); 
