@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "my-app",
+                "projectName": "my-app",
+                "workingDirectory": "/Users/chiragkariappa/MavenProjects/my-app",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "my-app",
+                "projectName": "my-app",
+                "workingDirectory": "/Users/chiragkariappa/MavenProjects/my-app",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
